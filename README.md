@@ -48,7 +48,7 @@ The dataset contains information about advertising budgets and corresponding sal
 
 ---
 
-## 📈 Machine Learning Model
+##  Machine Learning Model
 - Linear Regression is used to predict sales based on advertising expenditure.
 - Model performance is evaluated using metrics like:
   - Mean Squared Error (MSE)
